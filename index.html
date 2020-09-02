@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+
+<body>
+  <div id="app">
+    {{message | is(Number)}}
+  </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+  <script src="https://cdn.bootcss.com/axios/0.19.0-beta.1/axios.min.js"></script>
+  <!-- <script src="./dist/index.js"></script> -->
+  <script>
+    new Vue({
+      el: '#app',
+      data: {
+        message: '123456',
+        obj1: {
+          "status": "success",
+          "list": [
+            { "plat_id": "1", "plat_name": "巨量引擎", "palt_abbreviations": "ad", "plat_icon": "plat_icon/f85221ba5e70db435b5c4d93c6af9a09.png", "plat_status": "1", "sort": "1", "plat_status_name": "开启", "plat_icon_url": "http://cdn.hsuanyuen.com/plat_icon/f85221ba5e70db435b5c4d93c6af9a09.png" },
+            { "plat_id": "2", "plat_name": "uc", "palt_abbreviations": "uc", "plat_icon": "plat_icon/bc4c243804713caa9751b44522c8f03c.png", "plat_status": "1", "sort": "5", "plat_status_name": "开启", "plat_icon_url": "http://cdn.hsuanyuen.com/plat_icon/bc4c243804713caa9751b44522c8f03c.png" },
+            { "plat_id": "4", "plat_name": "优酷", "palt_abbreviations": "yk", "plat_icon": "ad-saas/logo4.png", "plat_status": "1", "sort": "2", "plat_status_name": "开启", "plat_icon_url": "http://cdn.hsuanyuen.com/ad-saas/logo4.png" },
+            { "plat_id": "5", "plat_name": "快手", "palt_abbreviations": "ks", "plat_icon": "plat_icon/34b8e0228992d0df28d9a9e0d89fc0e5.png", "plat_status": "1", "sort": "3", "plat_status_name": "开启", "plat_icon_url": "http://cdn.hsuanyuen.com/plat_icon/34b8e0228992d0df28d9a9e0d89fc0e5.png" },
+            { "plat_id": "11", "plat_name": "11", "palt_abbreviations": "ew", "plat_icon": "plat_icon/3fdac94b391e7cecd3a47aabae265693.jpg", "plat_status": "1", "sort": "11", "plat_status_name": "开启", "plat_icon_url": "http://cdn.hsuanyuen.com/plat_icon/3fdac94b391e7cecd3a47aabae265693.jpg" }
+          ]
+        }
+      },
+      created() {
+        // console.log(this.$f('', ''))
+      },
+      methods: {
+        caplitalizeA(str, type) {
+          let s = str.replace(/\b[a-z]/g, char => char.toUpperCase())
+          return type ? s.replace(/\B[a-z]/gi, char => char.toLowerCase()) : s
+        },
+        nest(arr, start_id, sid, pid) {
+          return arr.filter(item => item[pid] === start_id).map(item => ({
+            ...item,
+            children: this.nest(arr, item[sid], sid, pid)
+          }))
+        },
+        handler() {
+          let arr = Array.from([...arguments]).slice(1)
+        },
+        arrEq(val, val2, type) {
+          return this.typ(val, true) === '[object Array]' && val.length > 0 ? val.some(ite => type ? this.arrEqDeep(ite, val2) : this.typ(ite) === 'object' && ite ? this.arrEqAss(ite, val2) : ite === val2) : false
+        },
+        arrEqAss(v1, v2) {
+          return Object.values(v1).length > 0 ? Object.values(v1).some((ite) => {
+            this.typ(ite) === 'object' && ite ? this.arrEqAss(ite, v2) : ite === v2
+          }) : this.typ(v1, true) === this.typ(v1, true)
+        },
+        typ(val, type) {
+          return type ? Object.prototype.toString.call(val) : typeof val
+        },
+        testType(v1, v2, typStr) {
+          return this.typ(v1) === 'object' && Object.values(v1).length > 0 ? Object.values(v1).some((ite, i, arr) => {
+            return this.typ(ite, true) === typStr ? this.testValue(ite, v2, typStr) : this.typ(ite) === 'object' ? this.testType(ite, v2, typStr) : this.itemEq([v1], v2)
+          }) : this.typ(v1) === 'object' ? this.typ(v1, true) === typStr : v1 === v2
+        },
+        itemEq(v1, v2) {
+          return v1.every((ite, i) => ite === v2[i])
+        },
+        testValue(v1, v2, typStr) {
+          let stat = Object.keys(v1).length === Object.keys(v2).length && Object.values(v1).length === Object.values(v2).length && Object.keys(v1).every((ite, i) => Object.keys(v2)[i] === ite) ? Object.values(v1).every((ite, i) => this.typ(ite) === 'object' ? this.testType([ite], Object.values(v2)[i], this.typ(Object.values(v2)[i], true)) : Object.values(v2)[i] === ite) : this.testType(v1, v2, typStr)
+          return stat
+        },
+        arrEqDeep(v1, v2) {
+          return this.testType([v1], v2, this.typ(v2, true))
+        }
+      }
+    })
+  </script>
+</body>
+
+</html>

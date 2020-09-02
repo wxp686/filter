@@ -1,0 +1,1999 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "feature/.external-ecmascript.js",
+    "static": true,
+    "longname": "feature/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "feature/.external-ecmascript.js",
+    "static": true,
+    "longname": "feature/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "feature/.external-ecmascript.js",
+    "static": true,
+    "longname": "feature/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "feature/.external-ecmascript.js",
+    "static": true,
+    "longname": "feature/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "feature/.external-ecmascript.js",
+    "static": true,
+    "longname": "feature/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "feature/.external-ecmascript.js",
+    "static": true,
+    "longname": "feature/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "feature/.external-ecmascript.js",
+    "static": true,
+    "longname": "feature/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "feature/.external-ecmascript.js",
+    "static": true,
+    "longname": "feature/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "feature/.external-ecmascript.js",
+    "static": true,
+    "longname": "feature/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "feature/.external-ecmascript.js",
+    "static": true,
+    "longname": "feature/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "feature/.external-ecmascript.js",
+    "static": true,
+    "longname": "feature/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "feature/.external-ecmascript.js",
+    "static": true,
+    "longname": "feature/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "feature/.external-ecmascript.js",
+    "static": true,
+    "longname": "feature/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "feature/.external-ecmascript.js",
+    "static": true,
+    "longname": "feature/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "feature/.external-ecmascript.js",
+    "static": true,
+    "longname": "feature/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "feature/.external-ecmascript.js",
+    "static": true,
+    "longname": "feature/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "feature/.external-ecmascript.js",
+    "static": true,
+    "longname": "feature/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "feature/.external-ecmascript.js",
+    "static": true,
+    "longname": "feature/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "feature/.external-ecmascript.js",
+    "static": true,
+    "longname": "feature/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "feature/.external-ecmascript.js",
+    "static": true,
+    "longname": "feature/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "feature/.external-ecmascript.js",
+    "static": true,
+    "longname": "feature/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "feature/.external-ecmascript.js",
+    "static": true,
+    "longname": "feature/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "feature/.external-ecmascript.js",
+    "static": true,
+    "longname": "feature/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "feature/.external-ecmascript.js",
+    "static": true,
+    "longname": "feature/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "feature/.external-ecmascript.js",
+    "static": true,
+    "longname": "feature/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "feature/.external-ecmascript.js",
+    "static": true,
+    "longname": "feature/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "feature/.external-ecmascript.js",
+    "static": true,
+    "longname": "feature/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "feature/.external-ecmascript.js",
+    "static": true,
+    "longname": "feature/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "feature/.external-ecmascript.js",
+    "static": true,
+    "longname": "feature/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "feature/.external-ecmascript.js",
+    "static": true,
+    "longname": "feature/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "feature/.external-ecmascript.js",
+    "static": true,
+    "longname": "feature/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "feature/.external-ecmascript.js",
+    "static": true,
+    "longname": "feature/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "feature/.external-ecmascript.js",
+    "static": true,
+    "longname": "feature/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "feature/.external-ecmascript.js",
+    "static": true,
+    "longname": "feature/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "feature/.external-ecmascript.js",
+    "static": true,
+    "longname": "feature/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "feature/.external-ecmascript.js",
+    "static": true,
+    "longname": "feature/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "feature/.external-ecmascript.js",
+    "static": true,
+    "longname": "feature/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "feature/.external-ecmascript.js",
+    "static": true,
+    "longname": "feature/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "feature/.external-ecmascript.js",
+    "static": true,
+    "longname": "feature/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "feature/.external-ecmascript.js",
+    "static": true,
+    "longname": "feature/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "feature/.external-ecmascript.js",
+    "static": true,
+    "longname": "feature/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "feature/.external-ecmascript.js",
+    "static": true,
+    "longname": "feature/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "feature/.external-ecmascript.js",
+    "static": true,
+    "longname": "feature/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "feature/.external-ecmascript.js",
+    "static": true,
+    "longname": "feature/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "feature/.external-ecmascript.js",
+    "static": true,
+    "longname": "feature/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "feature/.external-ecmascript.js",
+    "static": true,
+    "longname": "feature/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "feature/.external-ecmascript.js",
+    "static": true,
+    "longname": "feature/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "feature/index.js",
+    "content": "/**\r\n * 千分位过滤器\r\n * @param {string|number} val - 要过滤的数字\r\n * @return {String} \r\n */\r\nexport const split = (val) => {\r\n  if (isNaN(val)) {\r\n    return '--'\r\n  }\r\n  let pattern = /(?=((?!\\b)\\d{3})+$)/g\r\n  let o = Number(val)\r\n    .toString()\r\n    .split('.')\r\n  let z = o[0].replace(pattern, ', ')\r\n  let l = o[1]\r\n  return l ? `${z}.${l}` : `${z}`\r\n}\r\n\r\n/**\r\n * 比例过滤器，将数字转换成百分比\r\n * @param {Number} val - 待转换数字\r\n * @param {Boolean} type - 为true将在倒数第二位添加小数点\r\n * @return {String}\r\n */\r\nexport const rate = (val, type) => {\r\n  return isNaN(val) ? '--' : type ? `${val.slice(0,-2)+'.'+val.slice(-2)}%` : `${Number(val).toFixed(2)}%`\r\n}\r\n\r\n/**\r\n * 货币过滤器，将数字转换成中文货币样式\r\n * @param {Number} val - 待转换数字\r\n * @param {Boolean} type - 1为只带千分位分隔符 2为只带￥  默认,.￥全带\r\n * @return {String} - \r\n */\r\nexport const money = (val, type) => {\r\n  if (isNaN(val)) {\r\n    return '--'\r\n  }\r\n  let pattern = /(?=((?!\\b)\\d{3})+$)/g\r\n  let o\r\n  let z\r\n  o = Number(val)\r\n    .toFixed(2)\r\n    .toString()\r\n    .split('.')\r\n  z = o[0].replace(pattern, ',')\r\n  return type === 1 ? `￥${z}` : type === 2 ? `￥${val}` : `￥${z}.${o[1]}`\r\n}\r\n\r\n/**\r\n * 平均数\r\n * @param {Number} nums - 要判断的多个数\r\n * @return {Number}\r\n */\r\nexport const average = (...nums) => nums.reduce((acc, val) => arr + val, 0) / nums.length\r\n\r\n/**\r\n * 去除数组中的无效/无用值\r\n * @param {Array} arr \r\n * @return {Array}\r\n */\r\nexport const compact = arr => arr.filter(Boolean)\r\n\r\n/**\r\n * 返回两个数组的交集\r\n * @param {Array} a\r\n * @param {Array} b\r\n * @return {Array}\r\n */\r\nexport const intersection = (a, b) => {\r\n  const s = new Set(b)\r\n  return a.filter(x => s.has(x))\r\n}\r\n\r\n/**\r\n * 生成指定范围指定长度的随机数组\r\n * @param {Number} min - min-value\r\n * @param {Number} max - max-value\r\n * @param {Number} n - 数量\r\n * @return {Array}\r\n */\r\nexport const randIntArr = (min, max, n = 1) => Array.from({\r\n    length: n\r\n  },\r\n  () => Math.floor(Math.random() * (max - min + 1)) + min)\r\n\r\n/**\r\n * 从指定数组中随机获取元素\r\n * @param {Array}  arr\r\n * @return {Number} \r\n */\r\nexport const sample = arr => arr[Math.floor(Math.random() * arr.length)]\r\n\r\n/**\r\n * 在指定数组中取出指定长度的随机数组\r\n * @param {Array} arr \r\n * @param {Number} n\r\n * @return {Array}\r\n */\r\nexport const sampleSize = ([...arr], n = 1) => {\r\n  let m = arr.length\r\n  while (m) {\r\n    const i = Math.floor(Math.random() * m--);\r\n    [arr[m], arr[i]] = [arr[i], arr[m]]\r\n  }\r\n  return arr.slice(0, n)\r\n}\r\n\r\n/**\r\n * 指定父子id生成父子嵌套结构\r\n * @example\r\n * const arr = [\r\n * {id:1,parent_id:0},\r\n * {id:2,parent_id:1},\r\n * {id:3,parent_id:2}\r\n * ]\r\n * nest(arr,0,'id','pid') => [{id:1,parent_id:0,children:[{id:2,parent_id:1,children:[{id:3,parent_id:2}]}]}]\r\n * \r\n * @param {Array} arr - 数组\r\n * @param {Number} start_id - 起始id\r\n * @param {String} sid - 子id\r\n * @param {String} pid - 父id\r\n * @return {Array}\r\n * \r\n */\r\nexport const nest = (arr, start_id, sid, pid) =>\r\n  arr\r\n  .filter(item => item[pid] === start_id)\r\n  .map(item => Object.assign({}, item, {\r\n    children: nest(arr, item[sid], sid, pid)\r\n  }))\r\n\r\n/**\r\n * 验证该值的类型 \r\n * @param {*} v1 - 要判断的值\r\n * @param {*} type\r\n * @return {Boolean} \r\n * \r\n * @example\r\n * this.$f('is','1',String)\r\n */\r\nexport const is = (v1, type) => v1.constructor === type\r\n\r\n/**\r\n * 计算函数的执行时间\r\n * @param {function():string} callback - 要判断的函数\r\n * @return {*} \r\n */\r\nexport const timeTaken = callback => {\r\n  console.time('timeTaken')\r\n  const r = callback();\r\n  console.timeEnd('timeTaken')\r\n  return r\r\n}\r\n\r\n/**\r\n * 每个单词首字母小写\r\n * @param {String} str - 要过滤的字符串 \r\n * @return {String}\r\n */\r\nexport const decapitalize = ([first, ...rest]) => first.toLowerCase() + rest.join('')\r\n\r\n/**\r\n * 字符串首字母大写\r\n * @param {String} val - 要过滤的字符串\r\n * @param {Boolean} type - true的话会让剩余字母也成小写\r\n * @return {String}\r\n * \r\n * @example\r\n * capitalize('fooBar',[true])\r\n */\r\nexport const capitalize = ([first, ...rest], type) => first.toUpperCase() + (type ? rest.join('').toLowerCase() : rest.join(''))\r\n\r\n/**\r\n * 每个单词首字母大写\r\n * @param {String} str - 要过滤的字符串\r\n * @param {Boolean} type - true 则 'fooBar ass' => 'Foobar Ass'\r\n * @return {String} \r\n */\r\nexport const caplitalizeAll = (str, type) => {\r\n  let s = str.replace(/\\b[a-z]/g, char => char.toUpperCase())\r\n  return type ? s.replace(/\\B[a-z]/gi, char => char.toLowerCase()) : s\r\n}\r\n\r\n/**\r\n * 银行卡号校验 Luhn算法\r\n * @param {Number} num - 要校验的数字\r\n */\r\nexport const luhnCheck = num => {\r\n  let arr = (num + '')\r\n    .split('')\r\n    .reverse()\r\n    .map(x => parseInt(x));\r\n  let lastDigit = arr.splice(0, 1)[0]\r\n  let sum = arr.reduce((acc, val, i) => (i % 2 !== 0 ? acc + val : acc + ((val * 2) % 9) || 9), 0)\r\n  sum += lastDigit\r\n  return sum % 10 === 0\r\n}\r\n\r\n/**\r\n * 获得当前日期天数\r\n * @param {Date} date - new Date()\r\n * @return {Number}\r\n * \r\n * @example\r\n * this.$f('dayofYear', new Date())\r\n * {{ val | dayofYear(new Date)}}\r\n */\r\nexport const dayofYear = date => Math.floor(((date - new Date(date.getFullYear(), 0, 0)) / 1000 / 60 / 60 / 24))\r\n\r\n/**\r\n * 返回当前时间的时分秒（24小时制）\r\n * @param {Date} date - new Date() \r\n * @return {String}\r\n * \r\n * @example\r\n * this.$f('getCurrentHour', new Date())\r\n * {{ val | getCurrentHour(new Date)}}\r\n */\r\nexport const getCurrentHour = date => date.toTimeString().slice(0, 8)\r\n\r\n/**\r\n * 返回两个日期间的天数\r\n * @param {date} v1 - new Date('2019-10-14')\r\n * @param {date} v2 - new Date('2020-11-12')\r\n * @return {Number}\r\n */\r\nexport const getDateBetween = (v1, v2) => (v1 - v2) / (1000 * 3600 * 24)\r\n\r\n/**\r\n * 深度判断两个变量是否全等\r\n *@param {*} a - 待判断变量\r\n *@param {*} b - 待判断变量\r\n *@return {Boolean}\r\n */\r\nexport const equals = (a, b) => {\r\n  if (a === b) return true\r\n  if (a instanceof Date && b instanceof Date) return a.getTime() === b.getTime()\r\n  if (!a || !b || (typeof a !== 'object' && typeof b !== 'object')) return a === b\r\n  if (a.prototype !== b.prototype) return false\r\n  let keys = Object.keys(a)\r\n  if (keys.length !== Object.keys(b).length) return false\r\n  if (keys.length === 0) return Object.keys(b).length === 0 && a.constructor.name === b.constructor.name\r\n  return keys.every(k => equals(a[k], b[k]))\r\n}\r\n\r\n/**\r\n * 返回值或变量的类型名\r\n * @param {*} v\r\n * @return {String}\r\n */\r\nexport const getType = v =>\r\n  v === undefined ? 'undefined' : v === null ? 'null' : v.constructor.name.toLowerCase()\r\n\r\n/**\r\n * 生成指定范围的随机整数\r\n * @param {Number} min - 最小数\r\n * @param {Number} max - 最大数\r\n * @return {Number}\r\n */\r\nexport const ranNumRange = (min, max) => Math.floor(Math.random() * (max - min) + min)\r\n\r\n/**\r\n * 四舍五入指定的小数位数\r\n * @param {Number} n - 带有小数的数字\r\n * @param {Number} [decimals=0] - 指定的小数位数\r\n * @return {Number}\r\n */\r\nexport const round = (n, decimals = 0) => Number(`${Math.round(`${n}e${decimals}`)}e-${decimals}`)\r\n\r\n/**\r\n * 计算任意两点之间的距离\r\n * @param {Number} x0 - 起始点的x轴的数值\r\n * @param {Number} y0 - 起始点的y轴的数值\r\n * @param {Number} x1 - 结束点的x轴的数值\r\n * @param {Number} y1 - 结束点的y轴的数值\r\n * @return {Number}\r\n */\r\nexport const distance = (x0, y0, x1, y1) => Math.hypot(x1 - x0, y1 - y0)\r\n\r\n/**\r\n * 检查是否在浏览器环境\r\n * @return {Boolean}\r\n */\r\nexport const isBrowser = () => ![typeof window, typeof document].includes('undefined')\r\n\r\n/**\r\n * 给回到顶部功能一个减缓效果\r\n * @param {Number} [v1=30] - 速度控制,越小速度越快（回滚每段距离的时间）\r\n * @param {Number} [v2=6] - 速度控制,越大速度越快（每段时间回滚的距离）\r\n * @param {Number} [scrollElement=document.documentElement || document.body] - 要操作的元素\r\n */\r\nexport const retard = (v1 = 30, v2 = 6, scrollElement) => {\r\n  let goTopTimer = setInterval(() => {\r\n    var scrollTop = scrollElement.scrollTop || document.documentElement.scrollTop || document.body.scrollTop;\r\n    var speed = Math.floor(-scrollTop / v2);\r\n    if (scrollElement) {\r\n      scrollElement.scrollTop = scrollTop + speed;\r\n    } else {\r\n      document.documentElement.scrollTop = document.body.scrollTop = scrollTop + speed;\r\n    }\r\n    if (scrollTop == 0) {\r\n      clearInterval(goTopTimer)\r\n    }\r\n  }, v1)\r\n}\r\n\r\n/**\r\n * 检测移动/PC设备\r\n * @return {String} ['Mobile','Desktop']\r\n */\r\nexport const detectDevice = () =>\r\n  /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ?\r\n  'Mobile' :\r\n  'Desktop'\r\n\r\n/**\r\n * 获取不同类型变量的长度\r\n * @param {*} val - 带测量的变量\r\n * @return {Number}\r\n */\r\nexport const size = val =>\r\n  Array.isArray(val) ?\r\n  val.length :\r\n  val && typeof val === 'object' ?\r\n  val.size || val.length || Object.keys(val).length :\r\n  typeof val === 'string' ?\r\n  new Blob([val]).size :\r\n  0;\r\n\r\n/**\r\n * HTML转义，预防XSS攻击\r\n * @param {String} str - 需转义的html字符串\r\n * @return {String}\r\n */\r\nexport const escapeHTML = str =>\r\n  str.replace(\r\n    /[&<>'\"]/g,\r\n    tag =>\r\n    ({\r\n      '&': '&amp;',\r\n      '<': '&lt;',\r\n      '>': '&gt;',\r\n      \"'\": '&#39;',\r\n      '\"': '&quot;'\r\n    } [tag] || tag)\r\n  )\r\n\r\n/**\r\n * 数字转换为中文大写\r\n * @param {Number} val - 整数部分支持76位数，小数部分转换人民币大写支持4位数，不支持的返回*\r\n * @param {String} type - 'money' 转化成人民币大写\r\n * @return {String}\r\n */\r\nexport const digitUppercase = (val, type) => {\r\n  if (val != 0 && isNaN(val) || val === null || val === '') return\r\n  let samplePlate = ['零', '壹', '贰', '叁', '肆', '伍', '陆', '柒', '捌', '玖']\r\n  let unit = ['', '拾', '佰', '仟', '万']\r\n  let units = ['', '万', '亿', '兆', '京', '垓', '秭', '穰', '沟', '涧', '正', '载', '极', '恒河沙', '阿僧祗', '那由他', '不可思议', '无量', '大数']\r\n  let moneyUnit = ['角', '分', '厘', '毫']\r\n  let all = (val.trim() + '').replace(/^0*/, '').split('.')\r\n  let integer = all[0].replace(/(?=((?!\\b)\\d{4})+$)/g, ',')\r\n  let integerArr = integer.split(',') // [123,4567,8910]\r\n  integerArr.forEach((current, i, array) => {\r\n    array[i] = current.split('').reverse().map((curr, j, arr) => {\r\n      arr[j] = samplePlate[curr]\r\n      if (arr[j] !== '零') arr[j] += unit[j]\r\n      return arr[j]\r\n    }).reverse().join('')\r\n    let reg = /零*$/g\r\n    array[i] = array[i].replace(reg, '')\r\n    let reg1 = /零+/g\r\n    array[i] = array[i].replace(reg1, '零')\r\n    array[i] = array[i] + (units[array.length - 1 - i] === undefined ? '*' : units[array.length - 1 - i])\r\n  })\r\n  let decimals = all[1] ? all[1].split('').map((ite, i, arr) => {\r\n    arr[i] = samplePlate[ite] + (type === 'money' ? moneyUnit[i] || '*' : '')\r\n    return arr[i]\r\n  }).join('') : ''\r\n  return integerArr.join('') + (type === 'money' ? '元' : '') + (type === 'money' ? (decimals || '整') : decimals ? '点' + decimals : '')\r\n}\r\n\r\n/**\r\n * 用来格式化日期,需要引入moment库,npm i moment\r\n * @param {string|number} val - 要格式化的时间\r\n * @see http://momentjs.cn/\r\n * @param {String} type - 要转变成的格式\r\n * @return {String}\r\n */\r\nexport const moment = (val, type) => {\r\n  return val ? (type ? moment(val).format(type) : moment(val).format()) : '--'\r\n}\r\n\r\n/**\r\n * 时间插件增加去年和今年\r\n * @return {Object}\r\n */\r\nexport const putYear = (type) => {\r\n  let mDate, data\r\n  type === 1 ?\r\n    (data = [\r\n      moment()\r\n      .subtract(1, 'years')\r\n      .startOf('years'),\r\n      moment()\r\n      .subtract(1, 'years')\r\n      .endOf('years')\r\n    ]) :\r\n    (data = [moment().startOf('years'), moment().endOf('years')])\r\n  mDate = {\r\n    text: type === 1 ? '去年' : '今年',\r\n    onClick(picker) {\r\n      picker.$emit('pick', data)\r\n    }\r\n  }\r\n  return mDate\r\n}\r\n\r\n/**\r\n * 时间插件增加最后上个月和這個月\r\n * @return {Object}\r\n */\r\nexport const putMonth = (type) => {\r\n  let mDate, data\r\n  type === 1 ?\r\n    (data = [\r\n      moment()\r\n      .subtract(1, 'month')\r\n      .startOf('month'),\r\n      moment()\r\n      .subtract(1, 'month')\r\n      .endOf('month')\r\n    ]) :\r\n    (data = [moment().startOf('month'), moment().endOf('month')])\r\n  mDate = {\r\n    text: type === 1 ? '上个月' : '本月',\r\n    onClick(picker) {\r\n      picker.$emit('pick', data)\r\n    }\r\n  }\r\n  return mDate\r\n}",
+    "static": true,
+    "longname": "C:/Users/wangyan/Desktop/filter/src/feature/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "function",
+    "name": "split",
+    "memberof": "feature/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "feature/index.js~split",
+    "access": "public",
+    "export": true,
+    "importPath": "hs-filter/feature/index.js",
+    "importStyle": "{split}",
+    "description": "千分位过滤器",
+    "lineNumber": 6,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string",
+          "number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "val",
+        "description": "要过滤的数字"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "String"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 50,
+    "kind": "function",
+    "name": "rate",
+    "memberof": "feature/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "feature/index.js~rate",
+    "access": "public",
+    "export": true,
+    "importPath": "hs-filter/feature/index.js",
+    "importStyle": "{rate}",
+    "description": "比例过滤器，将数字转换成百分比",
+    "lineNumber": 25,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "val",
+        "description": "待转换数字"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Boolean"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "type",
+        "description": "为true将在倒数第二位添加小数点"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "String"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 51,
+    "kind": "function",
+    "name": "money",
+    "memberof": "feature/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "feature/index.js~money",
+    "access": "public",
+    "export": true,
+    "importPath": "hs-filter/feature/index.js",
+    "importStyle": "{money}",
+    "description": "货币过滤器，将数字转换成中文货币样式",
+    "lineNumber": 35,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "val",
+        "description": "待转换数字"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Boolean"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "type",
+        "description": "1为只带千分位分隔符 2为只带￥  默认,.￥全带"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "String"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 52,
+    "kind": "function",
+    "name": "average",
+    "memberof": "feature/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "feature/index.js~average",
+    "access": "public",
+    "export": true,
+    "importPath": "hs-filter/feature/index.js",
+    "importStyle": "{average}",
+    "description": "平均数",
+    "lineNumber": 55,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "nums",
+        "description": "要判断的多个数"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Number"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 53,
+    "kind": "function",
+    "name": "compact",
+    "memberof": "feature/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "feature/index.js~compact",
+    "access": "public",
+    "export": true,
+    "importPath": "hs-filter/feature/index.js",
+    "importStyle": "{compact}",
+    "description": "去除数组中的无效/无用值",
+    "lineNumber": 62,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Array"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "arr",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Array"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 54,
+    "kind": "function",
+    "name": "intersection",
+    "memberof": "feature/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "feature/index.js~intersection",
+    "access": "public",
+    "export": true,
+    "importPath": "hs-filter/feature/index.js",
+    "importStyle": "{intersection}",
+    "description": "返回两个数组的交集",
+    "lineNumber": 70,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Array"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "a",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Array"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "b",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Array"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 55,
+    "kind": "function",
+    "name": "randIntArr",
+    "memberof": "feature/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "feature/index.js~randIntArr",
+    "access": "public",
+    "export": true,
+    "importPath": "hs-filter/feature/index.js",
+    "importStyle": "{randIntArr}",
+    "description": "生成指定范围指定长度的随机数组",
+    "lineNumber": 82,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "min",
+        "description": "min-value"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "max",
+        "description": "max-value"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "n",
+        "description": "数量"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Array"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 56,
+    "kind": "function",
+    "name": "sample",
+    "memberof": "feature/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "feature/index.js~sample",
+    "access": "public",
+    "export": true,
+    "importPath": "hs-filter/feature/index.js",
+    "importStyle": "{sample}",
+    "description": "从指定数组中随机获取元素",
+    "lineNumber": 92,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Array"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "arr",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Number"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 57,
+    "kind": "function",
+    "name": "sampleSize",
+    "memberof": "feature/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "feature/index.js~sampleSize",
+    "access": "public",
+    "export": true,
+    "importPath": "hs-filter/feature/index.js",
+    "importStyle": "{sampleSize}",
+    "description": "在指定数组中取出指定长度的随机数组",
+    "lineNumber": 100,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Array"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "arr",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "n",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Array"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 58,
+    "kind": "function",
+    "name": "nest",
+    "memberof": "feature/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "feature/index.js~nest",
+    "access": "public",
+    "export": true,
+    "importPath": "hs-filter/feature/index.js",
+    "importStyle": "{nest}",
+    "description": "指定父子id生成父子嵌套结构",
+    "examples": [
+      "const arr = [\n{id:1,parent_id:0},\n{id:2,parent_id:1},\n{id:3,parent_id:2}\n]\nnest(arr,0,'id','pid') => [{id:1,parent_id:0,children:[{id:2,parent_id:1,children:[{id:3,parent_id:2}]}]}]"
+    ],
+    "lineNumber": 126,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Array"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "arr",
+        "description": "数组"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "start_id",
+        "description": "起始id"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "sid",
+        "description": "子id"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "pid",
+        "description": "父id"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Array"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 59,
+    "kind": "function",
+    "name": "is",
+    "memberof": "feature/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "feature/index.js~is",
+    "access": "public",
+    "export": true,
+    "importPath": "hs-filter/feature/index.js",
+    "importStyle": "{is}",
+    "description": "验证该值的类型 ",
+    "examples": [
+      "this.$f('is','1',String)"
+    ],
+    "lineNumber": 142,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "*"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "v1",
+        "description": "要判断的值"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "*"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "type",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Boolean"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 60,
+    "kind": "function",
+    "name": "timeTaken",
+    "memberof": "feature/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "feature/index.js~timeTaken",
+    "access": "public",
+    "export": true,
+    "importPath": "hs-filter/feature/index.js",
+    "importStyle": "{timeTaken}",
+    "description": "计算函数的执行时间",
+    "lineNumber": 149,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "function():string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "callback",
+        "description": "要判断的函数"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "*"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 61,
+    "kind": "function",
+    "name": "decapitalize",
+    "memberof": "feature/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "feature/index.js~decapitalize",
+    "access": "public",
+    "export": true,
+    "importPath": "hs-filter/feature/index.js",
+    "importStyle": "{decapitalize}",
+    "description": "每个单词首字母小写",
+    "lineNumber": 161,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "str",
+        "description": "要过滤的字符串"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "String"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 62,
+    "kind": "function",
+    "name": "capitalize",
+    "memberof": "feature/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "feature/index.js~capitalize",
+    "access": "public",
+    "export": true,
+    "importPath": "hs-filter/feature/index.js",
+    "importStyle": "{capitalize}",
+    "description": "字符串首字母大写",
+    "examples": [
+      "capitalize('fooBar',[true])"
+    ],
+    "lineNumber": 172,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "val",
+        "description": "要过滤的字符串"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Boolean"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "type",
+        "description": "true的话会让剩余字母也成小写"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "String"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 63,
+    "kind": "function",
+    "name": "caplitalizeAll",
+    "memberof": "feature/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "feature/index.js~caplitalizeAll",
+    "access": "public",
+    "export": true,
+    "importPath": "hs-filter/feature/index.js",
+    "importStyle": "{caplitalizeAll}",
+    "description": "每个单词首字母大写",
+    "lineNumber": 180,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "str",
+        "description": "要过滤的字符串"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Boolean"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "type",
+        "description": "true 则 'fooBar ass' => 'Foobar Ass'"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "String"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 64,
+    "kind": "function",
+    "name": "luhnCheck",
+    "memberof": "feature/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "feature/index.js~luhnCheck",
+    "access": "public",
+    "export": true,
+    "importPath": "hs-filter/feature/index.js",
+    "importStyle": "{luhnCheck}",
+    "description": "银行卡号校验 Luhn算法",
+    "lineNumber": 189,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "num",
+        "description": "要校验的数字"
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 65,
+    "kind": "function",
+    "name": "dayofYear",
+    "memberof": "feature/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "feature/index.js~dayofYear",
+    "access": "public",
+    "export": true,
+    "importPath": "hs-filter/feature/index.js",
+    "importStyle": "{dayofYear}",
+    "description": "获得当前日期天数",
+    "examples": [
+      "this.$f('dayofYear', new Date())\n{{ val | dayofYear(new Date)}}"
+    ],
+    "lineNumber": 209,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Date"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "date",
+        "description": "new Date()"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Number"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 66,
+    "kind": "function",
+    "name": "getCurrentHour",
+    "memberof": "feature/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "feature/index.js~getCurrentHour",
+    "access": "public",
+    "export": true,
+    "importPath": "hs-filter/feature/index.js",
+    "importStyle": "{getCurrentHour}",
+    "description": "返回当前时间的时分秒（24小时制）",
+    "examples": [
+      "this.$f('getCurrentHour', new Date())\n{{ val | getCurrentHour(new Date)}}"
+    ],
+    "lineNumber": 220,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Date"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "date",
+        "description": "new Date()"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "String"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 67,
+    "kind": "function",
+    "name": "getDateBetween",
+    "memberof": "feature/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "feature/index.js~getDateBetween",
+    "access": "public",
+    "export": true,
+    "importPath": "hs-filter/feature/index.js",
+    "importStyle": "{getDateBetween}",
+    "description": "返回两个日期间的天数",
+    "lineNumber": 228,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "date"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "v1",
+        "description": "new Date('2019-10-14')"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "date"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "v2",
+        "description": "new Date('2020-11-12')"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Number"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 68,
+    "kind": "function",
+    "name": "equals",
+    "memberof": "feature/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "feature/index.js~equals",
+    "access": "public",
+    "export": true,
+    "importPath": "hs-filter/feature/index.js",
+    "importStyle": "{equals}",
+    "description": "深度判断两个变量是否全等",
+    "lineNumber": 236,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "*"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "a",
+        "description": "待判断变量"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "*"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "b",
+        "description": "待判断变量"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Boolean"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 69,
+    "kind": "function",
+    "name": "getType",
+    "memberof": "feature/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "feature/index.js~getType",
+    "access": "public",
+    "export": true,
+    "importPath": "hs-filter/feature/index.js",
+    "importStyle": "{getType}",
+    "description": "返回值或变量的类型名",
+    "lineNumber": 252,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "*"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "v",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "String"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 70,
+    "kind": "function",
+    "name": "ranNumRange",
+    "memberof": "feature/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "feature/index.js~ranNumRange",
+    "access": "public",
+    "export": true,
+    "importPath": "hs-filter/feature/index.js",
+    "importStyle": "{ranNumRange}",
+    "description": "生成指定范围的随机整数",
+    "lineNumber": 261,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "min",
+        "description": "最小数"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "max",
+        "description": "最大数"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Number"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 71,
+    "kind": "function",
+    "name": "round",
+    "memberof": "feature/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "feature/index.js~round",
+    "access": "public",
+    "export": true,
+    "importPath": "hs-filter/feature/index.js",
+    "importStyle": "{round}",
+    "description": "四舍五入指定的小数位数",
+    "lineNumber": 269,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "n",
+        "description": "带有小数的数字"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": "0",
+        "defaultRaw": 0,
+        "name": "decimals",
+        "description": "指定的小数位数"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Number"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 72,
+    "kind": "function",
+    "name": "distance",
+    "memberof": "feature/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "feature/index.js~distance",
+    "access": "public",
+    "export": true,
+    "importPath": "hs-filter/feature/index.js",
+    "importStyle": "{distance}",
+    "description": "计算任意两点之间的距离",
+    "lineNumber": 279,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "x0",
+        "description": "起始点的x轴的数值"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "y0",
+        "description": "起始点的y轴的数值"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "x1",
+        "description": "结束点的x轴的数值"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "y1",
+        "description": "结束点的y轴的数值"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Number"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 73,
+    "kind": "function",
+    "name": "isBrowser",
+    "memberof": "feature/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "feature/index.js~isBrowser",
+    "access": "public",
+    "export": true,
+    "importPath": "hs-filter/feature/index.js",
+    "importStyle": "{isBrowser}",
+    "description": "检查是否在浏览器环境",
+    "lineNumber": 285,
+    "return": {
+      "nullable": null,
+      "types": [
+        "Boolean"
+      ],
+      "spread": false,
+      "description": ""
+    },
+    "params": []
+  },
+  {
+    "__docId__": 74,
+    "kind": "function",
+    "name": "retard",
+    "memberof": "feature/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "feature/index.js~retard",
+    "access": "public",
+    "export": true,
+    "importPath": "hs-filter/feature/index.js",
+    "importStyle": "{retard}",
+    "description": "给回到顶部功能一个减缓效果",
+    "lineNumber": 293,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": "30",
+        "defaultRaw": 30,
+        "name": "v1",
+        "description": "速度控制,越小速度越快（回滚每段距离的时间）"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": "6",
+        "defaultRaw": 6,
+        "name": "v2",
+        "description": "速度控制,越大速度越快（每段时间回滚的距离）"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": "document.documentElement || document.body",
+        "defaultRaw": "document.documentElement || document.body",
+        "name": "scrollElement",
+        "description": "要操作的元素"
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 75,
+    "kind": "function",
+    "name": "detectDevice",
+    "memberof": "feature/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "feature/index.js~detectDevice",
+    "access": "public",
+    "export": true,
+    "importPath": "hs-filter/feature/index.js",
+    "importStyle": "{detectDevice}",
+    "description": "检测移动/PC设备",
+    "lineNumber": 312,
+    "return": {
+      "nullable": null,
+      "types": [
+        "String"
+      ],
+      "spread": false,
+      "description": "['Mobile','Desktop']"
+    },
+    "params": []
+  },
+  {
+    "__docId__": 76,
+    "kind": "function",
+    "name": "size",
+    "memberof": "feature/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "feature/index.js~size",
+    "access": "public",
+    "export": true,
+    "importPath": "hs-filter/feature/index.js",
+    "importStyle": "{size}",
+    "description": "获取不同类型变量的长度",
+    "lineNumber": 322,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "*"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "val",
+        "description": "带测量的变量"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Number"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 77,
+    "kind": "function",
+    "name": "escapeHTML",
+    "memberof": "feature/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "feature/index.js~escapeHTML",
+    "access": "public",
+    "export": true,
+    "importPath": "hs-filter/feature/index.js",
+    "importStyle": "{escapeHTML}",
+    "description": "HTML转义，预防XSS攻击",
+    "lineNumber": 336,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "str",
+        "description": "需转义的html字符串"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "String"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 78,
+    "kind": "function",
+    "name": "digitUppercase",
+    "memberof": "feature/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "feature/index.js~digitUppercase",
+    "access": "public",
+    "export": true,
+    "importPath": "hs-filter/feature/index.js",
+    "importStyle": "{digitUppercase}",
+    "description": "数字转换为中文大写",
+    "lineNumber": 355,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "val",
+        "description": "整数部分支持76位数，小数部分转换人民币大写支持4位数，不支持的返回*"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "type",
+        "description": "'money' 转化成人民币大写"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "String"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 79,
+    "kind": "function",
+    "name": "moment",
+    "memberof": "feature/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "feature/index.js~moment",
+    "access": "public",
+    "export": true,
+    "importPath": "hs-filter/feature/index.js",
+    "importStyle": "{moment}",
+    "description": "用来格式化日期,需要引入moment库,npm i moment",
+    "see": [
+      "http://momentjs.cn/"
+    ],
+    "lineNumber": 390,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string",
+          "number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "val",
+        "description": "要格式化的时间"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "type",
+        "description": "要转变成的格式"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "String"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 80,
+    "kind": "function",
+    "name": "putYear",
+    "memberof": "feature/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "feature/index.js~putYear",
+    "access": "public",
+    "export": true,
+    "importPath": "hs-filter/feature/index.js",
+    "importStyle": "{putYear}",
+    "description": "时间插件增加去年和今年",
+    "lineNumber": 398,
+    "return": {
+      "nullable": null,
+      "types": [
+        "Object"
+      ],
+      "spread": false,
+      "description": ""
+    },
+    "params": [
+      {
+        "name": "type",
+        "types": [
+          "*"
+        ]
+      }
+    ]
+  },
+  {
+    "__docId__": 81,
+    "kind": "function",
+    "name": "putMonth",
+    "memberof": "feature/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "feature/index.js~putMonth",
+    "access": "public",
+    "export": true,
+    "importPath": "hs-filter/feature/index.js",
+    "importStyle": "{putMonth}",
+    "description": "时间插件增加最后上个月和這個月",
+    "lineNumber": 423,
+    "return": {
+      "nullable": null,
+      "types": [
+        "Object"
+      ],
+      "spread": false,
+      "description": ""
+    },
+    "params": [
+      {
+        "name": "type",
+        "types": [
+          "*"
+        ]
+      }
+    ]
+  },
+  {
+    "kind": "index",
+    "content": "# FILTER-FUNCTION\n\n> A base on js npm pack. Provide more filter methods for your project\n\n## Build Setup\n\n# dev\n\n```sh\n# start the project\nnpm run build-w\n# Start a server port for the index.html file in the root directory\nLive Server or Http-server\n```\n\n# Refer to the esdoc documentation for function comments\n\nhttps://esdoc.org/manual/tags.html\n\n# Quick Use\n\n```sh\n# Generate doc\nnpm run doc\n\n# Build\nnpm run build\n\n# Move to dist directory\ncd dist\n\n# Create a configuration file.\necho '{\n  \"name\": \"hs-filter\",\n  \"description\": \"A base on js npm pack. Provide more filter methods for your project\",\n  \"version\": +++,\n  \"author\": \"wxp <15803305146@163.com>\",\n  \"main\": \"dist/index.js\",\n  \"license\": \"MIT\",\n  \"private\": false,\n}' > package.json\n\n# Pack\n\nnpm pack\n\n# Install npm pack in your project\n\nnpm install -D '.\\packName.tgz'\n\n# The exmple in the project\n- [vue] import 'name' from 'packName'\n- [html] <script src=\"packName\"></script>\n```\n\n# License\n\nMIT\n\n# Author\n\n[wxp<15803305146@163.com>]\n",
+    "longname": "C:\\Users\\wangyan\\Desktop\\filter\\README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\n  \"name\": \"hs-filter\",\n  \"description\": \"A base on js npm pack. Provide more filter methods for your project\",\n  \"version\": \"1.0.0\",\n  \"author\": \"wxp <15803305146@163.com>\",\n  \"main\": \"dist/index.js\",\n  \"license\": \"MIT\",\n  \"private\": false,\n  \"scripts\": {\n    \"doc\": \"esdoc\",\n    \"build\": \"cross-env webpack --progress --hide-modules\",\n    \"build-w\": \"cross-env webpack --progress --hide-modules -w\"\n  },\n  \"dependencies\": {},\n  \"browserslist\": [\n    \"> 1%\",\n    \"last 2 versions\",\n    \"not ie <= 8\"\n  ],\n  \"devDependencies\": {\n    \"@babel/cli\": \"^7.6.3\",\n    \"@babel/core\": \"^7.6.3\",\n    \"@babel/polyfill\": \"^7.7.0\",\n    \"@babel/preset-env\": \"^7.6.3\",\n    \"babel-loader\": \"^8.0.6\",\n    \"cross-env\": \"^6.0.3\",\n    \"esdoc\": \"^1.1.0\",\n    \"esdoc-standard-plugin\": \"^1.0.0\",\n    \"file-loader\": \"^1.1.4\",\n    \"webpack\": \"^3.6.0\",\n    \"webpack-dev-server\": \"^2.9.1\",\n    \"webpack-jarvis\": \"^0.3.2\"\n  },\n  \"directories\": {\n    \"doc\": \"docs\"\n  }\n}\n",
+    "longname": "C:\\Users\\wangyan\\Desktop\\filter\\package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  }
+]

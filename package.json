@@ -1,0 +1,39 @@
+{
+  "name": "hs-filter",
+  "description": "A base on js npm pack. Provide more filter methods for your project",
+  "version": "1.0.0",
+  "author": "wxp <15803305146@163.com>",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "doc": "esdoc",
+    "pack": "cd ./dist && npm pack",
+    "build": "cross-env webpack --progress --hide-modules ",
+    "postbuild": "npm run pack",
+    "build-w": "cross-env webpack --progress --hide-modules -w"
+  },
+  "dependencies": {},
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ],
+  "devDependencies": {
+    "@babel/cli": "^7.6.3",
+    "@babel/core": "^7.6.3",
+    "@babel/polyfill": "^7.7.0",
+    "@babel/preset-env": "^7.6.3",
+    "babel-loader": "^8.0.6",
+    "cross-env": "^6.0.3",
+    "esdoc": "^1.1.0",
+    "esdoc-standard-plugin": "^1.0.0",
+    "file-loader": "^1.1.4",
+    "webpack": "^3.6.0",
+    "webpack-dev-server": "^2.9.1",
+    "webpack-jarvis": "^0.3.2"
+  },
+  "directories": {
+    "doc": "docs"
+  }
+}
